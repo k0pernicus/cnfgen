@@ -6,7 +6,7 @@
   "activationCommands": {
     "atom-workspace": "cnfgen:toggle"
   },
-  "repository": "https://github.com/atom/cnfgen",
+  "repository": "https://github.com/k0pernicus/cnfgen",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
