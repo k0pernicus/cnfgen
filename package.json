@@ -1,7 +1,7 @@
 {
   "name": "cnfgen",
   "main": "./lib/cnfgen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Chuck Norris facts generator",
   "activationCommands": {
     "atom-workspace": "cnfgen:toggle"
