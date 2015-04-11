@@ -4,6 +4,8 @@
     {
       'label': 'Toggle cnfgen'
       'command': 'cnfgen:toggle'
+      'label': 'New joke'
+      'command': 'cnfgen:new_joke'
     }
   ]
 'menu': [
@@ -15,6 +17,8 @@
         {
           'label': 'Toggle'
           'command': 'cnfgen:toggle'
+          'label': 'New joke'
+          'command': 'cnfgen:new_joke'
         }
       ]
     ]
