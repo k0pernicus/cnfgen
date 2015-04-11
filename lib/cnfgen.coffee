@@ -35,3 +35,8 @@ module.exports = Cnfgen =
       console.log("joke : "+joke)
       @cnfgenView.getNewJoke(joke.value.joke)
       @modalPanel.show()
+
+  new_joke: ->
+    if @modalPanel.isVisible()
+      @modalPanel.hide()
+      @toggle()
